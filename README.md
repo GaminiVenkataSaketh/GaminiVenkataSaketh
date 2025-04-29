@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GaminiVenkataSaketh.GaminiVenkataSaketh" alt="Visitors" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ff6ec4,100:7873f5&height=250&section=header&text=WELCOME%20TO%20MY%20GITHUB!&fontSize=35&fontAlign=50&fontAlignY=40&desc=✨%20GaminiVenkataSaketh%20✨&descAlign=50&descAlignY=65&animation=twinkling" />
 </p>
 
